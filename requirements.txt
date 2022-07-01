@@ -1,0 +1,8 @@
+seaborn
+matplotlib
+scikit-learn
+plotly
+fpdf
+openpyxl
+streamlit
+xlrd
